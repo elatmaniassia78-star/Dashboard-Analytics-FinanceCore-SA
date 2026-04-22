@@ -1,4 +1,15 @@
+<<<<<<< HEAD
 .env
 .venv/
 __pycache__/
 .ipynb_checkpoints/
+=======
+<<<<<<< HEAD
+.env
+=======
+.env
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+>>>>>>> fda204e (app.py)
+>>>>>>> fix-work
